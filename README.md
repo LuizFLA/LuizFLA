@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Luiz Fernando L Amaro
 
-<!--
-**LuizFLA/LuizFLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master student of Computer Science in Artificial Intelligence at Kaunas University of Technology (KTU). I recently completed a Bachelor in Artificial Intelligence in the Netherlands.
 
-Here are some ideas to get you started:
+My background in Python, databases and machine learning is solid and I have experience in data analysis and NLP projects. I enjoy building practical, real-world solutions. Currently looking for data-driven and AI-related roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+
+**Programming & Data**
+- Python (Pandas, automation, data processing)
+- SQL (data querying, transformations, analytics)
+
+**Data Visualization**
+- Power BI (dashboards, reporting, DAX basics)
+
+**Cloud & Data Engineering**
+- Microsoft Azure (core services)
+- Azure Functions (serverless workflows)
+- Azure Blob Storage (data storage & pipelines)
+
+**Automation / Integration**
+- n8n (workflow automation, API integrations)
+
+---
+
+## 📊 Projects
+
+> Hands-on projects that show data engineering, analytics and workflow automation with modern cloud tools.
+
+### 1. [Certificate Automation]
+- Built using Python, n8n, and Azure (Functions, Blob Storage, Databases)
+- Focus:  Automated certificate generation workflows for a health clinic
+- Outcome: Reduced processing time from weeks to under 5 minutes for 100+ certificates
+
+### 2. [Data Mining]
+- Built using SAS
+- Focus: exploratory data analysis, data preprocessing, and machine learning techniques
+- Outcome: Identified key patterns, improved data quality, and built clustering and predictive models
+
+---
+
+## 📌 What I'm working on
+Building end-to-end data engineering pipelines using Python, SQL, PostgreSQL, dbt, and Power BI. The focus is on API and Excel ingestion, data modeling, and delivering analytics-ready datasets for reporting and visualization.
