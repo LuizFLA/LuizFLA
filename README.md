@@ -2,7 +2,7 @@
 
 I am a Master student of Computer Science in Artificial Intelligence at Kaunas University of Technology (KTU). I recently completed a Bachelor in Artificial Intelligence in the Netherlands.
 
-My background in Python, databases and machine learning is solid and I have experience in data analysis and NLP projects. I enjoy building practical, real-world solutions. Currently looking for data-driven and AI-related roles.
+I have a strong technical foundation in Python, database systems, and machine learning, complemented by applied experience in data analysis and NLP project development. I enjoy building practical, real-world solutions. Currently looking for data-driven and AI-related roles.
 
 ---
 
