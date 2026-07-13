@@ -39,6 +39,14 @@ I have a strong technical foundation in Python, database systems, and machine le
 - Focus: exploratory data analysis, data preprocessing, and machine learning techniques
 - Outcome: Identified key patterns, improved data quality, and built clustering and predictive models
 
+### 3. [End-to-end analytics pipeline]
+- Built an end-to-end ELT pipeline using Python, PostgreSQL, dbt, and Power BI.
+- Extracted and loaded raw Olist e-commerce datasets into PostgreSQL using Python.
+- Transformed raw data into analytics-ready dimensional models using dbt (staging, intermediate, and marts layers).
+- Designed a constellation schema with fact and dimension tables for BI reporting.
+- Applied data engineering best practices, including modular SQL transformations, version control with Git, and documentation.
+- Outcome: Delivered a reproducible analytics pipeline that converts raw transactional data into business-ready insights for decision-making.
+
 ---
 
 ## 📌 What I'm working on
